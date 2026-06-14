@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+I chose reviews of CS professors at Dartmouth College, which is my school. I believe this information is valuable because it's tough to find a consolidated source of information across different sources. Students can signficantly improve their academic experiences if they have more information prior to choosing classes (more advice would have definitely helped me).
 ---
 
 ## Documents
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | https://www.layuplist.com/course/690/review_search?q=Prasad%20Jayanti | Review of CS prof (Jayanti) from Dartmouth's unique course review site | No public access, will be made into txt file |
+| 2 | https://www.reddit.com/r/dartmouth/comments/i83id6/best_cs_profs/ | Reddit of best CS profs/classes | Publicly available |
+| 3 | https://www.layuplist.com/course/680/review_search?q=Vasanta%20Lakshmi%20Kommineni | Review of CS prof (Kommineni) from Dartmouth's unique course review site | No public access, will be made into txt file |
+| 4 | https://www.layuplist.com/course/682/review_search?q=Timothy%20Pierson | Review of CS prof (Pierson) from Dartmouth's unique course review site | No public access, will be made into txt file |
+| 5 | https://www.reddit.com/r/dartmouth/comments/eq1qe3/best_classes_you_have_taken_at_dartmouth_with/| Best profs/classes at Dartmouth | Publicly available |
+| 6 | https://www.reddit.com/r/dartmouth/comments/8szq0u/help_me_out_regarding_cs/ | Advice on CS at Dartmouth | Publicly available |
+| 7 | https://www.layuplist.com/course/691/review_search?q=Deeparnab%20Chakrabarty | Review of CS prof (Deep C) from Dartmouth's unique course review site | No public access, will be made into txt file |
+| 8 | https://www.layuplist.com/course/3149/review_search?q=Timothy%20Tregubov | Review of CS prof (Tregubov) from Dartmouth's unique course review site | No public access, will be made into txt file |
+| 9 | https://www.quora.com/What-are-the-pros-and-cons-of-studying-in-Dartmouth-Colleges-computer-science-program | CS department review | Publicly available |
+| 10 | https://dartreview.com/success-in-computing-at-dartmouth/ | Article on the CS department's changes over times | Public |
 
 ---
 
