@@ -7,6 +7,8 @@
 
 ---
 
+Note - I apologize for the incomplete submission - I was in the middle of
+
 ## Domain
 
 <!-- What topic or category of knowledge does your system cover?
