@@ -7,7 +7,7 @@
 
 ---
 
-Note - I apologize for the incomplete submission - I was in the middle of
+Note - So sorry for the incomplete submission - The past few weeks were my finals period, so I didn't get much of a chance to work on this assignment. I just wanted to submit what I had so far. 
 
 ## Domain
 
